@@ -1,0 +1,11 @@
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\SOLID\bin\Debug\net5.0\SOLID.deps.json
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\SOLID\bin\Debug\net5.0\SOLID.dll
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\SOLID\bin\Debug\net5.0\ref\SOLID.dll
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\SOLID\bin\Debug\net5.0\SOLID.pdb
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\SOLID\obj\Debug\net5.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\SOLID\obj\Debug\net5.0\SOLID.AssemblyInfoInputs.cache
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\SOLID\obj\Debug\net5.0\SOLID.AssemblyInfo.cs
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\SOLID\obj\Debug\net5.0\SOLID.csproj.CoreCompileInputs.cache
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\SOLID\obj\Debug\net5.0\SOLID.dll
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\SOLID\obj\Debug\net5.0\ref\SOLID.dll
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\SOLID\obj\Debug\net5.0\SOLID.pdb

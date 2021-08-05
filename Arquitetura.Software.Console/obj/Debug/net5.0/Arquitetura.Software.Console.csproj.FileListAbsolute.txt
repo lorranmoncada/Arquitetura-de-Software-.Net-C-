@@ -1,0 +1,5 @@
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\Arquitetura.Software.Console\obj\Debug\net5.0\Arquitetura.Software.Console.csprojAssemblyReference.cache
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\Arquitetura.Software.Console\obj\Debug\net5.0\Arquitetura.Software.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\Arquitetura.Software.Console\obj\Debug\net5.0\Arquitetura.Software.Console.AssemblyInfoInputs.cache
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\Arquitetura.Software.Console\obj\Debug\net5.0\Arquitetura.Software.Console.AssemblyInfo.cs
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\Arquitetura.Software.Console\obj\Debug\net5.0\Arquitetura.Software.Console.csproj.CoreCompileInputs.cache

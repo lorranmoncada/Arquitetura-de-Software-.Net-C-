@@ -1,0 +1,430 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OPP/1.0.0": {
+        "dependencies": {
+          "DI": "1.0.0",
+          "Microsoft.SqlServer.DacFx.x64": "150.5084.2",
+          "PATTERNS": "1.0.0",
+          "SOLID": "1.0.0"
+        },
+        "runtime": {
+          "OPP.dll": {}
+        }
+      },
+      "Microsoft.NETCore.Platforms/3.1.0": {},
+      "Microsoft.SqlServer.DacFx.x64/150.5084.2": {
+        "runtime": {
+          "lib/net46/Microsoft.Data.Tools.Schema.Sql.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.5084.2"
+          },
+          "lib/net46/Microsoft.Data.Tools.Utilities.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.5084.2"
+          },
+          "lib/net46/Microsoft.SqlServer.Dac.Extensions.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.5084.2"
+          },
+          "lib/net46/Microsoft.SqlServer.Dac.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.5084.2"
+          },
+          "lib/net46/Microsoft.SqlServer.TransactSql.ScriptDom.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "15.0.5084.2"
+          },
+          "lib/net46/Microsoft.SqlServer.Types.dll": {
+            "assemblyVersion": "15.0.0.0",
+            "fileVersion": "2017.150.2.153"
+          }
+        },
+        "resources": {
+          "lib/net46/de-DE/Microsoft.Data.Tools.Schema.Sql.resources.dll": {
+            "locale": "de-DE"
+          },
+          "lib/net46/de-DE/Microsoft.Data.Tools.Utilities.resources.dll": {
+            "locale": "de-DE"
+          },
+          "lib/net46/de-DE/Microsoft.SqlServer.Dac.Extensions.resources.dll": {
+            "locale": "de-DE"
+          },
+          "lib/net46/de-DE/Microsoft.SqlServer.Dac.resources.dll": {
+            "locale": "de-DE"
+          },
+          "lib/net46/de-DE/Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll": {
+            "locale": "de-DE"
+          },
+          "lib/net46/es-ES/Microsoft.Data.Tools.Schema.Sql.resources.dll": {
+            "locale": "es-ES"
+          },
+          "lib/net46/es-ES/Microsoft.Data.Tools.Utilities.resources.dll": {
+            "locale": "es-ES"
+          },
+          "lib/net46/es-ES/Microsoft.SqlServer.Dac.Extensions.resources.dll": {
+            "locale": "es-ES"
+          },
+          "lib/net46/es-ES/Microsoft.SqlServer.Dac.resources.dll": {
+            "locale": "es-ES"
+          },
+          "lib/net46/es-ES/Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll": {
+            "locale": "es-ES"
+          },
+          "lib/net46/fr-FR/Microsoft.Data.Tools.Schema.Sql.resources.dll": {
+            "locale": "fr-FR"
+          },
+          "lib/net46/fr-FR/Microsoft.Data.Tools.Utilities.resources.dll": {
+            "locale": "fr-FR"
+          },
+          "lib/net46/fr-FR/Microsoft.SqlServer.Dac.Extensions.resources.dll": {
+            "locale": "fr-FR"
+          },
+          "lib/net46/fr-FR/Microsoft.SqlServer.Dac.resources.dll": {
+            "locale": "fr-FR"
+          },
+          "lib/net46/fr-FR/Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll": {
+            "locale": "fr-FR"
+          },
+          "lib/net46/it-IT/Microsoft.Data.Tools.Schema.Sql.resources.dll": {
+            "locale": "it-IT"
+          },
+          "lib/net46/it-IT/Microsoft.Data.Tools.Utilities.resources.dll": {
+            "locale": "it-IT"
+          },
+          "lib/net46/it-IT/Microsoft.SqlServer.Dac.Extensions.resources.dll": {
+            "locale": "it-IT"
+          },
+          "lib/net46/it-IT/Microsoft.SqlServer.Dac.resources.dll": {
+            "locale": "it-IT"
+          },
+          "lib/net46/it-IT/Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll": {
+            "locale": "it-IT"
+          },
+          "lib/net46/ja-JP/Microsoft.Data.Tools.Schema.Sql.resources.dll": {
+            "locale": "ja-JP"
+          },
+          "lib/net46/ja-JP/Microsoft.Data.Tools.Utilities.resources.dll": {
+            "locale": "ja-JP"
+          },
+          "lib/net46/ja-JP/Microsoft.SqlServer.Dac.Extensions.resources.dll": {
+            "locale": "ja-JP"
+          },
+          "lib/net46/ja-JP/Microsoft.SqlServer.Dac.resources.dll": {
+            "locale": "ja-JP"
+          },
+          "lib/net46/ja-JP/Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll": {
+            "locale": "ja-JP"
+          },
+          "lib/net46/ko-KR/Microsoft.Data.Tools.Schema.Sql.resources.dll": {
+            "locale": "ko-KR"
+          },
+          "lib/net46/ko-KR/Microsoft.Data.Tools.Utilities.resources.dll": {
+            "locale": "ko-KR"
+          },
+          "lib/net46/ko-KR/Microsoft.SqlServer.Dac.Extensions.resources.dll": {
+            "locale": "ko-KR"
+          },
+          "lib/net46/ko-KR/Microsoft.SqlServer.Dac.resources.dll": {
+            "locale": "ko-KR"
+          },
+          "lib/net46/ko-KR/Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll": {
+            "locale": "ko-KR"
+          },
+          "lib/net46/pt-BR/Microsoft.Data.Tools.Schema.Sql.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net46/pt-BR/Microsoft.Data.Tools.Utilities.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net46/pt-BR/Microsoft.SqlServer.Dac.Extensions.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net46/pt-BR/Microsoft.SqlServer.Dac.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net46/pt-BR/Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net46/ru-RU/Microsoft.Data.Tools.Schema.Sql.resources.dll": {
+            "locale": "ru-RU"
+          },
+          "lib/net46/ru-RU/Microsoft.Data.Tools.Utilities.resources.dll": {
+            "locale": "ru-RU"
+          },
+          "lib/net46/ru-RU/Microsoft.SqlServer.Dac.Extensions.resources.dll": {
+            "locale": "ru-RU"
+          },
+          "lib/net46/ru-RU/Microsoft.SqlServer.Dac.resources.dll": {
+            "locale": "ru-RU"
+          },
+          "lib/net46/ru-RU/Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll": {
+            "locale": "ru-RU"
+          },
+          "lib/net46/zh-CN/Microsoft.Data.Tools.Schema.Sql.resources.dll": {
+            "locale": "zh-CN"
+          },
+          "lib/net46/zh-CN/Microsoft.Data.Tools.Utilities.resources.dll": {
+            "locale": "zh-CN"
+          },
+          "lib/net46/zh-CN/Microsoft.SqlServer.Dac.Extensions.resources.dll": {
+            "locale": "zh-CN"
+          },
+          "lib/net46/zh-CN/Microsoft.SqlServer.Dac.resources.dll": {
+            "locale": "zh-CN"
+          },
+          "lib/net46/zh-CN/Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll": {
+            "locale": "zh-CN"
+          },
+          "lib/net46/zh-TW/Microsoft.Data.Tools.Schema.Sql.resources.dll": {
+            "locale": "zh-TW"
+          },
+          "lib/net46/zh-TW/Microsoft.Data.Tools.Utilities.resources.dll": {
+            "locale": "zh-TW"
+          },
+          "lib/net46/zh-TW/Microsoft.SqlServer.Dac.Extensions.resources.dll": {
+            "locale": "zh-TW"
+          },
+          "lib/net46/zh-TW/Microsoft.SqlServer.Dac.resources.dll": {
+            "locale": "zh-TW"
+          },
+          "lib/net46/zh-TW/Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll": {
+            "locale": "zh-TW"
+          }
+        }
+      },
+      "Microsoft.Win32.Registry/4.7.0": {
+        "dependencies": {
+          "System.Security.AccessControl": "4.7.0",
+          "System.Security.Principal.Windows": "4.7.0"
+        }
+      },
+      "Npgsql/5.0.4": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.6.0"
+        },
+        "runtime": {
+          "lib/net5.0/Npgsql.dll": {
+            "assemblyVersion": "5.0.4.0",
+            "fileVersion": "5.0.4.0"
+          }
+        }
+      },
+      "Oracle.ManagedDataAccess/19.11.0": {
+        "runtime": {
+          "lib/net40/Oracle.ManagedDataAccess.dll": {
+            "assemblyVersion": "4.122.19.1",
+            "fileVersion": "4.122.19.1"
+          }
+        }
+      },
+      "runtime.native.System.Data.SqlClient.sni/4.7.0": {
+        "dependencies": {
+          "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni": "4.4.0",
+          "runtime.win-x64.runtime.native.System.Data.SqlClient.sni": "4.4.0",
+          "runtime.win-x86.runtime.native.System.Data.SqlClient.sni": "4.4.0"
+        }
+      },
+      "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/sni.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "4.6.25512.1"
+          }
+        }
+      },
+      "runtime.win-x64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+        "runtimeTargets": {
+          "runtimes/win-x64/native/sni.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "4.6.25512.1"
+          }
+        }
+      },
+      "runtime.win-x86.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+        "runtimeTargets": {
+          "runtimes/win-x86/native/sni.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "4.6.25512.1"
+          }
+        }
+      },
+      "System.Data.SqlClient/4.8.2": {
+        "dependencies": {
+          "Microsoft.Win32.Registry": "4.7.0",
+          "System.Security.Principal.Windows": "4.7.0",
+          "runtime.native.System.Data.SqlClient.sni": "4.7.0"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/System.Data.SqlClient.dll": {
+            "assemblyVersion": "4.6.1.2",
+            "fileVersion": "4.700.20.37001"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "4.6.1.2",
+            "fileVersion": "4.700.20.37001"
+          },
+          "runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.6.1.2",
+            "fileVersion": "4.700.20.37001"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.6.0": {},
+      "System.Security.AccessControl/4.7.0": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "3.1.0",
+          "System.Security.Principal.Windows": "4.7.0"
+        }
+      },
+      "System.Security.Principal.Windows/4.7.0": {},
+      "DI/1.0.0": {
+        "runtime": {
+          "DI.dll": {}
+        }
+      },
+      "PATTERNS/1.0.0": {
+        "dependencies": {
+          "Npgsql": "5.0.4",
+          "Oracle.ManagedDataAccess": "19.11.0",
+          "System.Data.SqlClient": "4.8.2"
+        },
+        "runtime": {
+          "PATTERNS.dll": {}
+        }
+      },
+      "SOLID/1.0.0": {
+        "runtime": {
+          "SOLID.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OPP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.NETCore.Platforms/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-z7aeg8oHln2CuNulfhiLYxCVMPEwBl3rzicjvIX+4sUuCwvXw5oXQEtbiU2c0z4qYL5L3Kmx0mMA/+t/SbY67w==",
+      "path": "microsoft.netcore.platforms/3.1.0",
+      "hashPath": "microsoft.netcore.platforms.3.1.0.nupkg.sha512"
+    },
+    "Microsoft.SqlServer.DacFx.x64/150.5084.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pEurePc+6nk21Qi7Jx7B2L/OAp4C6NFqIPwpAafWgwPs/E5E6b4iv3HF+LTNwJavUnn26iScI430uQXes4L6GA==",
+      "path": "microsoft.sqlserver.dacfx.x64/150.5084.2",
+      "hashPath": "microsoft.sqlserver.dacfx.x64.150.5084.2.nupkg.sha512"
+    },
+    "Microsoft.Win32.Registry/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KSrRMb5vNi0CWSGG1++id2ZOs/1QhRqROt+qgbEAdQuGjGrFcl4AOl4/exGPUYz2wUnU42nvJqon1T3U0kPXLA==",
+      "path": "microsoft.win32.registry/4.7.0",
+      "hashPath": "microsoft.win32.registry.4.7.0.nupkg.sha512"
+    },
+    "Npgsql/5.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wuJUsrhOKaR41ZB9Ecw9ZEpQzMQ5bRahl7w+pt4noVMDkDPbw4cMHV8UfNKeZSPLXaN4yWXPR2QgJ+2vG/85VQ==",
+      "path": "npgsql/5.0.4",
+      "hashPath": "npgsql.5.0.4.nupkg.sha512"
+    },
+    "Oracle.ManagedDataAccess/19.11.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-E1d+kp34TAS5BVM1vmPGc+jc+psG5gc+JkP6GmHVB26HUfOdKxz/8axsLMl63h2uxe2IQzVXWWXt823pM+15oQ==",
+      "path": "oracle.manageddataaccess/19.11.0",
+      "hashPath": "oracle.manageddataaccess.19.11.0.nupkg.sha512"
+    },
+    "runtime.native.System.Data.SqlClient.sni/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9kyFSIdN3T0qjDQ2R0HRXYIhS3l5psBzQi6qqhdLz+SzFyEy4sVxNOke+yyYv8Cu8rPER12c3RDjLT8wF3WBYQ==",
+      "path": "runtime.native.system.data.sqlclient.sni/4.7.0",
+      "hashPath": "runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512"
+    },
+    "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LbrynESTp3bm5O/+jGL8v0Qg5SJlTV08lpIpFesXjF6uGNMWqFnUQbYBJwZTeua6E/Y7FIM1C54Ey1btLWupdg==",
+      "path": "runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0",
+      "hashPath": "runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
+    },
+    "runtime.win-x64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-38ugOfkYJqJoX9g6EYRlZB5U2ZJH51UP8ptxZgdpS07FgOEToV+lS11ouNK2PM12Pr6X/PpT5jK82G3DwH/SxQ==",
+      "path": "runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0",
+      "hashPath": "runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
+    },
+    "runtime.win-x86.runtime.native.System.Data.SqlClient.sni/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YhEdSQUsTx+C8m8Bw7ar5/VesXvCFMItyZF7G1AUY+OM0VPZUOeAVpJ4Wl6fydBGUYZxojTDR3I6Bj/+BPkJNA==",
+      "path": "runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0",
+      "hashPath": "runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
+    },
+    "System.Data.SqlClient/4.8.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-80vGtW6uLB4AkyrdVuKTXYUyuXDPAsSKbTVfvjndZaRAYxzFzWhJbvUfeAKrN+128ycWZjLIAl61dFUwWHOOTw==",
+      "path": "system.data.sqlclient/4.8.2",
+      "hashPath": "system.data.sqlclient.4.8.2.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.6.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HxozeSlipUK7dAroTYwIcGwKDeOVpQnJlpVaOkBz7CM4TsE5b/tKlQBZecTjh6FzcSbxndYaxxpsBMz+wMJeyw==",
+      "path": "system.runtime.compilerservices.unsafe/4.6.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+    },
+    "System.Security.AccessControl/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JECvTt5aFF3WT3gHpfofL2MNNP6v84sxtXxpqhLBCcDRzqsPBmHhQ6shv4DwwN2tRlzsUxtb3G9M3763rbXKDg==",
+      "path": "system.security.accesscontrol/4.7.0",
+      "hashPath": "system.security.accesscontrol.4.7.0.nupkg.sha512"
+    },
+    "System.Security.Principal.Windows/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ojD0PX0XhneCsUbAZVKdb7h/70vyYMDYs85lwEI+LngEONe/17A0cFaRFqZU+sOEidcVswYWikYOQ9PPfjlbtQ==",
+      "path": "system.security.principal.windows/4.7.0",
+      "hashPath": "system.security.principal.windows.4.7.0.nupkg.sha512"
+    },
+    "DI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PATTERNS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SOLID/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

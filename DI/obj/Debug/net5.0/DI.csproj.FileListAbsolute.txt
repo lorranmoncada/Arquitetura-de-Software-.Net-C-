@@ -1,0 +1,11 @@
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\DI\bin\Debug\net5.0\DI.deps.json
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\DI\bin\Debug\net5.0\DI.dll
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\DI\bin\Debug\net5.0\ref\DI.dll
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\DI\bin\Debug\net5.0\DI.pdb
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\DI\obj\Debug\net5.0\DI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\DI\obj\Debug\net5.0\DI.AssemblyInfoInputs.cache
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\DI\obj\Debug\net5.0\DI.AssemblyInfo.cs
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\DI\obj\Debug\net5.0\DI.csproj.CoreCompileInputs.cache
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\DI\obj\Debug\net5.0\DI.dll
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\DI\obj\Debug\net5.0\ref\DI.dll
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\DI\obj\Debug\net5.0\DI.pdb

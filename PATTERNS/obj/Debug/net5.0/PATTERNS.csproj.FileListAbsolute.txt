@@ -1,0 +1,12 @@
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\PATTERNS\bin\Debug\net5.0\PATTERNS.deps.json
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\PATTERNS\bin\Debug\net5.0\PATTERNS.dll
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\PATTERNS\bin\Debug\net5.0\ref\PATTERNS.dll
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\PATTERNS\bin\Debug\net5.0\PATTERNS.pdb
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\PATTERNS\obj\Debug\net5.0\PATTERNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\PATTERNS\obj\Debug\net5.0\PATTERNS.AssemblyInfoInputs.cache
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\PATTERNS\obj\Debug\net5.0\PATTERNS.AssemblyInfo.cs
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\PATTERNS\obj\Debug\net5.0\PATTERNS.csproj.CoreCompileInputs.cache
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\PATTERNS\obj\Debug\net5.0\PATTERNS.dll
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\PATTERNS\obj\Debug\net5.0\ref\PATTERNS.dll
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\PATTERNS\obj\Debug\net5.0\PATTERNS.pdb
+C:\Estudo\Curso-Arquitetura-Software\Arquitetura.Software.Console\PATTERNS\obj\Debug\net5.0\PATTERNS.csprojAssemblyReference.cache
